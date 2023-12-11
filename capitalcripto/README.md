@@ -25,6 +25,16 @@ npm run dev
 
 Agora basta abrir a página no endereço sugerido pelo comando 'npm run dev'
 
+Para logar na aplição basta entrar com alguma das duas credenciais (definidas no db.json):
+
+usuário: lucas
+senha: 1234556
+
+ou
+
+usuário: admin 
+senha: password
+
 ## O que é DCA - Dollar Cost Average
 
 O DCA, ou Dollar Cost Averaging, representa uma estratégia de investimento na qual o investidor realiza contribuições programadas em um dia específico do mês para todos os seus ativos. A principal vantagem do DCA reside no fato de que, em vez de o investidor buscar o momento exato para se expor ao mercado, ele opta por efetuar compras consistentes todos os meses, visando, a longo prazo, um preço médio mais atrativo. A estratégia de DCA foi mencionada pela primeira vez por Benjamin Graham em sua obra "The Intelligent Investor" de 1949.
